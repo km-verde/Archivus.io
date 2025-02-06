@@ -5,8 +5,8 @@ it's ideation/design stages long before I knew of it), and I really like the Bud
 make comments at certain parts of a story. I wanted to add feature similar to mine, but I want this platform to focus more on 
 user engagement with others (instead of tracking like StoryGraph).
 
-#Name
+## Name
 Also, I feel like a genius with the name Archivus--because "archive with us." teehee >.<
 
-#In Progress
+## In Progress
 Currently in the beginning stages of home and login/signup sections! Will update and commit when I can :p
